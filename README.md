@@ -2,13 +2,13 @@
 
 Projects
 
-Airbnb Market Analysis - Chicago
+Airbnb Market Analysis
 
 Data Cleaning & Exploratory Analysis Project
-A comprehensive data cleaning and analysis pipeline for Chicago Airbnb listings, demonstrating systematic data management and quality control procedures.
+A comprehensive data cleaning and analysis pipeline for European Airbnb listings, demonstrating systematic data management and quality control procedures.
 Key Components:
 
-- Data Cleaning: Processed raw Airbnb dataset with 6,000+ listings, handling missing values, outliers, and inconsistent formatting
+- Data Cleaning: Processed raw Airbnb dataset with 50,000+ listings, handling missing values, outliers, and inconsistent formatting
 - Data Validation: Implemented quality control checks to ensure data integrity and accuracy
 - Exploratory Analysis: Analyzed pricing patterns, neighborhood trends, and listing characteristics
 - Documentation: Maintained detailed logs of data cleaning decisions and transformations for reproducibility
